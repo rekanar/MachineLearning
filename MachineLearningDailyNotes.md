@@ -20,5 +20,7 @@ Day1 -
  3. hers is the path c:\Users\santh\desktop\sample_project1
  4. cd sample_project1
  5. command to install tools/packages from conda -- conda create --prefix ./env pandas numpy matplotlib scikit-learn notebook
+ 6. command to activate conda -- conda activate c:\users\santh\DEsktop\sample_project1\env
+ 7. 
 
  
